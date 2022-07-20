@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.697671ac.chunk.css",
+    "main.js": "./static/js/main.dc4c06da.chunk.js",
+    "main.js.map": "./static/js/main.dc4c06da.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.dd816730.js",
+    "runtime-main.js.map": "./static/js/runtime-main.dd816730.js.map",
+    "static/js/2.38707b73.chunk.js": "./static/js/2.38707b73.chunk.js",
+    "static/js/2.38707b73.chunk.js.map": "./static/js/2.38707b73.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.697671ac.chunk.css.map": "./static/css/main.697671ac.chunk.css.map",
+    "static/js/2.38707b73.chunk.js.LICENSE.txt": "./static/js/2.38707b73.chunk.js.LICENSE.txt",
+    "static/media/ethereumLogo.a1b9f99b.png": "./static/media/ethereumLogo.a1b9f99b.png",
+    "static/media/scythesymbol.eb416803.png": "./static/media/scythesymbol.eb416803.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd816730.js",
+    "static/js/2.38707b73.chunk.js",
+    "static/css/main.697671ac.chunk.css",
+    "static/js/main.dc4c06da.chunk.js"
+  ]
+}
